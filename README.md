@@ -34,6 +34,6 @@ Abhi Jain<br>Self taught software developer | Freelancer
 
 ## 👷 Projects
 
-[Meloverse- Freelance Project](https://www.meloverse.in/) |  Solarized Ocean
+[Meloverse- Freelance Project](https://www.meloverse.in/) |  [Perfect Vision- Freelance Project](https://www.perfectvision.ai/!)
 :-------------------------:|:-------------------------:
-![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)  |  ![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)
+![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)  |  ![1. Perfect Vision](https://github.com/abhijain1705/abhijain1705/assets/137091099/b7dff902-cd54-4552-9527-04ac45588b0a)
