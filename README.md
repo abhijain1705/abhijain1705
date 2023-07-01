@@ -36,4 +36,9 @@ Abhi Jain<br>Self taught software developer | Freelancer
 
 [Meloverse- Freelance Project](https://www.meloverse.in/) |  [Perfect Vision- Freelance Project](https://www.perfectvision.ai/!)
 :-------------------------:|:-------------------------:
-![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)  |  ![1. Perfect Vision](https://github.com/abhijain1705/abhijain1705/assets/137091099/b7dff902-cd54-4552-9527-04ac45588b0a)
+![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)  |  ![2. Perfect Vision](https://github.com/abhijain1705/abhijain1705/assets/137091099/b7dff902-cd54-4552-9527-04ac45588b0a)
+
+[Disney Clone](https://disney-clone-seven-lyart.vercel.app/) |  [Perfect Vision- Freelance Project](https://www.perfectvision.ai/!)
+:-------------------------:|:-------------------------:
+![3. Disney Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/1742086f-2915-414c-8eeb-aaacb2ec8cc6)  |  ![4. Medium Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/178e0e9c-d30c-4398-9388-9d111b325c1e)
+
