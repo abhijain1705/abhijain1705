@@ -33,5 +33,7 @@ Abhi Jain<br>Self taught software developer | Freelancer
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 👷 Projects
-![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)
-[Checkout out my first client project](https://www.meloverse.in/)
+
+[Meloverse- Freelance Project](https://www.meloverse.in/) |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)  |  ![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)
