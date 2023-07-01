@@ -46,5 +46,3 @@ Abhi Jain<br>Self taught software developer | Freelancer
 :-------------------------:|:-------------------------:|:-------------------------:
 ![7.Cred Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/61146ff0-6e01-48c6-94c9-d2f312bd7873)  |  ![8.Digital Dekho](https://github.com/abhijain1705/abhijain1705/assets/137091099/7a95a568-a0f4-4482-9572-0303957044ac) | ![9. Elite Ledger](https://github.com/abhijain1705/abhijain1705/assets/137091099/885a3a6b-a61f-48fc-916a-eb4d4b827631)
 
-
-
