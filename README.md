@@ -55,8 +55,7 @@ Abhi Jain<br>Self taught software developer | Freelancer
 
 [SDE Intern- Figr](https://figr.design/) |  [Lido Learning](#) | [Self Employeed- Freelance Web Engineer](#)
 :-------------------------:|:-------------------------:|:-------------------------:
-[I work as an SDE Intern at the early edge and fastest growing startup.
+I work as an SDE Intern at the early edge and fastest growing startup.
 Worked on some features which have helped the company get a 30% more user base.
 Reduce web load time and UI mistakes, make the website faster by following best practices
-including unnecessary code removal, splitting large components, etc.] |  [I worked as a part-time coding tutor where I conducted more than 150 live classes and taught web development.] | [worked as a freelancer, build end-to-end product for them using MERN stack and helped them to launch their tech product]
-:-------------------------:|:-------------------------:|:-------------------------:
+including unnecessary code removal, splitting large components, etc. |  I worked as a part-time coding tutor where I conducted more than 150 live classes and taught web development. | worked as a freelancer, build end-to-end product for them using MERN stack and helped them to launch their tech product
