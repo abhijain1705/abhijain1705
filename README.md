@@ -5,6 +5,7 @@ Abhi Jain<br> Self-taught software developer | Freelancer
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijain1705) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijain03/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abhijain3002) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhiwd)
+[![Calendly](https://img.shields.io/badge/calendly-blue)](https://calendly.com/abhijain3002)
 
 # 💻 Tech Stack:
 
@@ -50,6 +51,3 @@ Abhi Jain<br> Self-taught software developer | Freelancer
 ### What people say about me
 ![testimonials](https://github.com/abhijain1705/abhijain1705/assets/137091099/0098badd-64d3-4318-9d88-d8116162bfdf)
 
-
-### want to hire me
-![Book a 30 min. call](https://calendly.com/abhijain3002){:target="_blank" rel="noopener"}
