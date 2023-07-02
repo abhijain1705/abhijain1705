@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Abhi Jain<br>Self taught software developer | Freelancer
+Abhi Jain<br> Self-taught software developer | Freelancer
 
 ## 🌐 Socials:
 
@@ -51,13 +51,5 @@ Abhi Jain<br>Self taught software developer | Freelancer
 ![testimonials](https://github.com/abhijain1705/abhijain1705/assets/137091099/0098badd-64d3-4318-9d88-d8116162bfdf)
 
 
-## 👷 Experience
-
-[SDE Intern- Figr](https://figr.design/) | I work as an SDE Intern at the early edge and fastest growing startup.
-Worked on some features which have helped the company get a 30% more user base.
-Reduce web load time and UI mistakes, and make the website faster by following best practices
-including unnecessary code removal, splitting large components, etc.
-:-------------------------:|:-------------------------:
-[Lido Learning](#) |  I worked as a part-time coding tutor where I conducted more than 150 live classes and taught web development.
-:-------------------------:|:-------------------------:
-[Self Employeed- Freelance Web Engineer](#) | Worked as a freelancer, building end-to-end product for them using MERN stack and helping them to launch their tech product
+### want to hire me
+![Book a 30 min. call](https://calendly.com/abhijain3002){:target="_blank" rel="noopener"}
