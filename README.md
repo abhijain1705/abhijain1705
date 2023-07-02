@@ -47,5 +47,16 @@ Abhi Jain<br>Self taught software developer | Freelancer
 ![7.Cred Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/61146ff0-6e01-48c6-94c9-d2f312bd7873)  |  ![8.Digital Dekho](https://github.com/abhijain1705/abhijain1705/assets/137091099/7a95a568-a0f4-4482-9572-0303957044ac) | ![9. Elite Ledger](https://github.com/abhijain1705/abhijain1705/assets/137091099/885a3a6b-a61f-48fc-916a-eb4d4b827631)
 
 
-### what people say about me
+### What people say about me
 ![testimonials](https://github.com/abhijain1705/abhijain1705/assets/137091099/0098badd-64d3-4318-9d88-d8116162bfdf)
+
+
+## 👷 Experience
+
+[SDE Intern- Figr](https://figr.design/) |  [Lido Learning](#) | [Self Employeed- Freelance Web Engineer](#)
+:-------------------------:|:-------------------------:|:-------------------------:
+[I work as an SDE Intern at the early edge and fastest growing startup.
+Worked on some features which have helped the company get a 30% more user base.
+Reduce web load time and UI mistakes, make the website faster by following best practices
+including unnecessary code removal, splitting large components, etc.] |  [I worked as a part-time coding tutor where I conducted more than 150 live classes and taught web development.] | [worked as a freelancer, build end-to-end product for them using MERN stack and helped them to launch their tech product]
+:-------------------------:|:-------------------------:|:-------------------------:
