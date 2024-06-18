@@ -30,26 +30,3 @@ Abhi Jain<br> Self-taught software developer | Freelancer
 ## ![](https://github-contributor-stats.vercel.app/api?username=abhijain1705&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=abhijain1705&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 👷 Projects
-
-[Meloverse- Freelance Project](https://www.meloverse.in/) |  [Perfect Vision- Freelance Project](https://www.perfectvision.ai/!) | [Disney Clone](https://disney-clone-seven-lyart.vercel.app/)
-:-------------------------:|:-------------------------:|:-------------------------:
-![1. Meloverse](https://github.com/abhijain1705/abhijain1705/assets/137091099/e330e416-95d2-4a88-83be-17a28ef827d3)  |  ![2. Perfect Vision](https://github.com/abhijain1705/abhijain1705/assets/137091099/b7dff902-cd54-4552-9527-04ac45588b0a) | ![3. Disney Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/1742086f-2915-414c-8eeb-aaacb2ec8cc6)
-
-[Medium Clone](https://medium-clone-orcin-three.vercel.app/) |  [Netflix Clone](https://clone-netflix-orcin.vercel.app/) | [Tesla Clone](https://tesla-clone-ruby.vercel.app/)
-:-------------------------:|:-------------------------:|:-------------------------:
-![4. Medium Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/178e0e9c-d30c-4398-9388-9d111b325c1e)  |  ![5. Netflix Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/1d1f4b4c-0ad3-494e-9b05-e282599a3f72) | ![6. Tesla Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/fad820eb-09b8-4c9f-b80c-12e33f63d761)
-
-[7. Cred Clone](https://cred-clone-alpha.vercel.app/) |  [8. DigitalDekho- Freelance Project](https://digital-dekho.vercel.app/) | [9. Elite Ledger](https://eliteledger.vercel.app/)
-:-------------------------:|:-------------------------:|:-------------------------:
-![7.Cred Clone](https://github.com/abhijain1705/abhijain1705/assets/137091099/61146ff0-6e01-48c6-94c9-d2f312bd7873)  |  ![8.Digital Dekho](https://github.com/abhijain1705/abhijain1705/assets/137091099/7a95a568-a0f4-4482-9572-0303957044ac) | ![9. Elite Ledger](https://github.com/abhijain1705/abhijain1705/assets/137091099/885a3a6b-a61f-48fc-916a-eb4d4b827631)
-
-[10. Paywise React-Native App](#) |  [11. Bahikhata React-Native App](#) | [12. MentorMe Flutter App](#)
-:-------------------------:|:-------------------------:|:-------------------------:
-![10. Paywise](https://github.com/abhijain1705/abhijain1705/assets/137091099/13b3f7c4-7ea2-429a-81bc-5cafc08c108f)  |  ![11. Bahikhata](https://github.com/abhijain1705/abhijain1705/assets/137091099/7ad603d4-1812-4d67-ab19-823ef9bdb6f9) | ![12. MentorMe](https://github.com/abhijain1705/abhijain1705/assets/137091099/e780c978-74a0-465a-aa7f-c3ad5e591bc1)
-
-### What people say about me
-![testimonials](https://github.com/abhijain1705/abhijain1705/assets/137091099/0098badd-64d3-4318-9d88-d8116162bfdf)
