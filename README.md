@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Abhi Jain<br> Self-taught software developer | Freelancer
+SDE @Traccel
 
 ## 🌐 Socials:
 
