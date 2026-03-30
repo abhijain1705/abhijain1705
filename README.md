@@ -37,6 +37,7 @@ SDE @Traccel
 ## 🏆 Live Projects  
 - 🧠 [Quiz Management](https://quiz-master-college.onrender.com/auth/login)
 - 🚀 [Advanced Quiz Management](https://quiz-master-v2.vercel.app/)
+- 🎶 [Apple Music UI](https://apple-music-theta.vercel.app/)
 - 💳 [CRED Landing Page](https://cred-ui-clone-rho.vercel.app/)
 - ❤️ [Valentine Card Animation](https://codepen.io/abhijain1705/pen/ByBXJrZ)
 - 🎬 [Disney Landing Page](https://disney-clone-sooty-phi.vercel.app/)
