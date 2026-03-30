@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-SDE @Traccel
+Software Engineer
 
 ## 🌐 Socials:
 
